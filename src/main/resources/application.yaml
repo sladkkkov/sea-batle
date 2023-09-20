@@ -1,0 +1,7 @@
+board:
+  size: 10
+  symbol:
+    empty-space: '▢'
+    ship: '◯'
+    shot: '⊡'
+    hit: '⊠'
